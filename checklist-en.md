@@ -5,7 +5,7 @@
   * [ ] `    * [ ]` syntax to create a second-level checklist.
   * [ ] `    * E.g.` syntax to create a second-level sample.
   * [ ] `      * E.g.` syntax to create a third-level sample.
-  * [ ] Syntax for a simples piece of code `This is code`.
+  * [ ] Syntax for a simple piece of code `This is code`.
   * [ ] Syntax for code blocks:
     ```
     # Code Block:
