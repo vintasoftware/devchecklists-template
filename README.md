@@ -23,7 +23,7 @@
   * [ ] Changes on the checklist repository will reflect on the current checklist of Devchecklists.
 
 ## Commercial Support
-![alt text](https://avatars2.githubusercontent.com/u/5529080?s=200&v=4 "Vinta Logo")
+[![alt text](https://avatars2.githubusercontent.com/u/5529080?s=200&v=4 "Vinta Logo")](https://vintasoftware.com)
 
 This project, as other Vinta open-source projects, is used in products of Vinta clients. We are always looking for exciting work, so if you need any commercial support, feel free to get in touch: contact@vinta.com.br
 
