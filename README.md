@@ -1,8 +1,9 @@
-![alt text](https://s3-sa-east-1.amazonaws.com/www.vinta.com.br/images/dont_delete/devchecklist-logo.png "Devchecklists Logo")
+[![alt text](https://s3-sa-east-1.amazonaws.com/www.vinta.com.br/images/dont_delete/devchecklist-logo.png "Devchecklists Logo")](https://www.devchecklist.com)
 
 ## Creation and Submission:
 ### Follow the steps above to create and deploy your checklist:
   * [ ] 1. Fork this repository;
+  * [ ] 2. Rename the forked repository;
   * [ ] 2. Use `checklist-*.md` to write your first checklist;
     * E.g. `checklist-en`.
   * [ ] 3. On the `checklist-*.md` file replace `*` for the [acronym language](https://www.loc.gov/standards/iso639-2/php/code_list.php) that your checklist was written;
@@ -12,7 +13,7 @@
   * [ ] To add a new language you will need to create another markdown file containing the new [acronym language:](http://sustainablesources.com/resources/country-abbreviations/)
     * E.g. `checklist-pt.md`.
   * [ ] No further approval will be necessary;
-  * [ ] The new checklist language should be visible on Devckecklists after you saved the file on your forked repository.
+  * [ ] The new checklist language should be visible on Devckecklists after you saved this new file on the repository.
 
 ## Important Notes:
   * [ ] Markdown is the only way to write checklists on Devchecklists;
