@@ -13,7 +13,7 @@
   * [ ] To add a new language you will need to create another markdown file containing the new [acronym language:](http://sustainablesources.com/resources/country-abbreviations/)
     * E.g. `checklist-pt.md`.
   * [ ] No further approval will be necessary;
-  * [ ] The new checklist language should be visible on Devckecklists after you saved this new file on the repository.
+  * [ ] The new checklist language should be visible on Devchecklists after you saved this new file on the repository.
 
 ## Important Notes:
   * [ ] Markdown is the only way to write checklists on Devchecklists;
