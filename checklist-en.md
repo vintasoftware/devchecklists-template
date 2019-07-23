@@ -1,5 +1,5 @@
 ## 1. Allowed markdown syntaxes on Devchecklists:
-  * [ ] Github removes empty spaces when it compiles a markdown file. For a correct visualization of some pieces of code, please access the [raw version](https://raw.githubusercontent.com/vintasoftware/devchecklists-template/master/checklist-us.md) of this file.
+  * [ ] Github removes empty spaces when it compiles a markdown file. For a correct visualization of some pieces of code, please access the [raw version](https://raw.githubusercontent.com/vintasoftware/devchecklists-template/master/checklist-en.md) of this file.
   * [ ] `##` for titles.
   * [ ] `* [ ]` syntax to create a parent checklist.
   * [ ] `    * [ ]` syntax to create a second-level checklist.
